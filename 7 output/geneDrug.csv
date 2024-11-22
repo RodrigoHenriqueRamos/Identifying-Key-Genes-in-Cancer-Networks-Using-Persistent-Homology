@@ -1,0 +1,117 @@
+;Gene;Drug;Regulatory Approval;Indication;Interaction Score
+1;ABL1;HYDROXYUREA;Approved;Antineoplastic Agents;0.036
+2;ABL1;PONATINIB;Approved;antineoplastic agent;0.8008
+3;ABL1;IMATINIB;Approved;antineoplastic agent;0.1108
+4;ABL1;NILOTINIB;Approved;antineoplastic agent;0.6375
+5;ABL1;DASATINIB ANHYDROUS;Approved;antineoplastic agent;0.1766
+6;ABL1;REGORAFENIB;Approved;antineoplastic agent;0.0229
+7;ABL1;TRAMETINIB DIMETHYL SULFOXIDE;Approved;antineoplastic agent;0.0076
+8;ABL1;BOSUTINIB;Approved;antineoplastic agent;0.6241
+9;ABL1;VINCRISTINE;Approved;antineoplastic agent;0.0093
+10;ABL1;BLINATUMOMAB;Approved;antineoplastic agent;0.0756
+11;ABL1;PAZOPANIB;Approved;antineoplastic agent;0.0065
+12;ABL1;AZACITIDINE;Approved;antineoplastic agent;0.0189
+13;ABL1;AXITINIB;Approved;antineoplastic agent;0.0515
+14;ABL1;VANDETANIB;Approved;antineoplastic agent;0.013
+15;ABL1;INOTUZUMAB OZOGAMICIN;Approved;antineoplastic agent;0.1889
+16;ABL1;SORAFENIB;Approved;antineoplastic agent;0.0033
+17;ABL1;CRIZOTINIB;Approved;antineoplastic agent;0.0145
+18;ABL1;ERLOTINIB;Approved;antineoplastic agent;0.0064
+19;ABL1;CABOZANTINIB S-MALATE;Approved;antineoplastic agent;0.0172
+20;ABL1;OMACETAXINE MEPESUCCINATE;Approved;antineoplastic agent;0.1511
+21;ABL1;MASITINIB;Approved;antineoplastic agent,DMARD,antiinflammatory agent;0.0222
+22;ACTL6A;PANOBINOSTAT;Approved;antineoplastic agent;0.3978
+23;AKT1;NINTEDANIB ESYLATE;Approved;antineoplastic agent;0.0592
+24;AKT1;TOPOTECAN HYDROCHLORIDE;Approved;antineoplastic agent;0.0592
+25;AKT1;DABRAFENIB;Approved;antineoplastic agent;0.0274
+26;AKT1;VEMURAFENIB;Approved;antineoplastic agent;0.0205
+27;AKT1;RESVERATROL;Approved;antineoplastic agent,antidiabetic,for treatment of herpes simplex virus 1;0.0302
+28;APAF1;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.0031
+29;ATM;ETOPOSIDE;Approved;Antineoplastic Agents;0.0488
+30;ATM;IBRUTINIB;Approved;antineoplastic agent;0.0654
+31;ATM;IPILIMUMAB;Approved;antineoplastic agent;0.0719
+32;ATM;TRAMETINIB DIMETHYL SULFOXIDE;Approved;antineoplastic agent;0.0144
+33;ATM;NIVOLUMAB;Approved;antineoplastic agent;0.048
+34;ATM;ENZALUTAMIDE;Approved;antineoplastic agent;0.1107
+35;ATM;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.0144
+36;ATM;FLUDARABINE;Approved;antineoplastic agent;0.0423
+37;ATM;NIRAPARIB;Approved;antineoplastic agent;0.1541
+38;ATM;IRINOTECAN HYDROCHLORIDE;Approved;antineoplastic agent;0.0457
+39;ATM;VANDETANIB;Approved;antineoplastic agent;0.0248
+40;ATM;BINIMETINIB;Approved;antineoplastic agent,DMARD,antiinflammatory agent;0.0719
+41;ATM;PACLITAXEL;Approved;for treatment of peripheral arterial disease (PAD),DMARD,antineoplastic agent;0.02
+42;ATR;ENZALUTAMIDE;Approved;antineoplastic agent;0.2693
+43;ATR;NIRAPARIB;Approved;antineoplastic agent;0.125
+44;CASP3;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.0156
+45;CASP3;PACLITAXEL;Approved;for treatment of peripheral arterial disease (PAD),DMARD,antineoplastic agent;0.0216
+46;CTNNB1;CETUXIMAB;Approved;antineoplastic agent;0.0442
+47;CTNNB1;LETROZOLE;Approved;antineoplastic agent;0.0442
+48;CTNNB1;IMATINIB;Approved;antineoplastic agent;0.0212
+49;CTNNB1;CABOZANTINIB S-MALATE;Approved;antineoplastic agent;0.0723
+50;CTNNB1;SORAFENIB;Approved;antineoplastic agent;0.014
+51;CTNNB1;TEMSIROLIMUS;Approved;antineoplastic agent;0.1224
+52;CTNNB1;LENALIDOMIDE;Approved;antineoplastic agent;0.1224
+53;CTNNB1;THALIDOMIDE;Approved;antineoplastic agent;0.043
+54;CTNNB1;TRAMETINIB DIMETHYL SULFOXIDE;Approved;antineoplastic agent;0.0318
+55;FANCD2;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.7001
+56;HERC2;NERATINIB;Approved;antineoplastic agent;75.011
+57;HSP90AA1;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.0024
+58;MAPT;IDARUBICIN;Approved;Antineoplastic Agents;0.0025
+59;MAPT;TRIMETREXATE;Approved;Antineoplastic Agents;0.0132
+60;MAPT;DAUNORUBICIN LIPOSOMAL;Approved;antineoplastic agent;0.0013
+61;MAPT;FENRETINIDE;Approved;antineoplastic agent;0.0046
+62;MAPT;GEFITINIB;Approved;antineoplastic agent;0.0018
+63;MAPT;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.0008
+64;MAPT;RESVERATROL;Approved;antineoplastic agent,antidiabetic,for treatment of herpes simplex virus 1;0.0024
+65;PTK2;PAZOPANIB;Approved;antineoplastic agent;0.0335
+66;PTK2;MASITINIB;Approved;antineoplastic agent,DMARD,antiinflammatory agent;0.1144
+67;RELA;GEFITINIB;Approved;antineoplastic agent;0.0291
+68;RELA;RESVERATROL;Approved;antineoplastic agent,antidiabetic,for treatment of herpes simplex virus 1;0.0202
+69;RIPK1;RESVERATROL;Approved;antineoplastic agent,antidiabetic,for treatment of herpes simplex virus 1;10.716
+70;TP53;MERCAPTOPURINE;Approved;Antineoplastic Agents;0.0026
+71;TP53;ETOPOSIDE;Approved;Antineoplastic Agents;0.0059
+72;TP53;EPIRUBICIN;Approved;Antineoplastic Agents;0.0193
+73;TP53;IFOSFAMIDE;Approved;Antineoplastic Agents;0.0166
+74;TP53;INTERFERON ALFA-2B;Approved;"Antineoplastic Agents; Immunomodulatory Agents,for treatment of hepatitis B and C";0.0166
+75;TP53;TAMOXIFEN;Approved;Hormonal,Antineoplastic Agents;0.0036
+76;TP53;RUXOLITINIB;Approved;antiinflammatory agent,antineoplastic agent;0.0136
+77;TP53;CYTARABINE;Approved;antineoplastic agent;0.0029
+78;TP53;IPILIMUMAB;Approved;antineoplastic agent;0.0116
+79;TP53;FULVESTRANT;Approved;antineoplastic agent;0.0097
+80;TP53;ERLOTINIB;Approved;antineoplastic agent;0.0039
+81;TP53;TRAMETINIB DIMETHYL SULFOXIDE;Approved;antineoplastic agent;0.007
+82;TP53;OBINUTUZUMAB;Approved;antineoplastic agent;0.0773
+83;TP53;PAZOPANIB;Approved;antineoplastic agent;0.008
+84;TP53;GEMCITABINE;Approved;antineoplastic agent;0.0075
+85;TP53;DOXORUBICIN HYDROCHLORIDE;Approved;antineoplastic agent;0.0116
+86;TP53;SUNITINIB;Approved;antineoplastic agent;0.0047
+87;TP53;ALEMTUZUMAB;Approved;antineoplastic agent;0.0386
+88;TP53;SORAFENIB;Approved;antineoplastic agent;0.002
+89;TP53;FENRETINIDE;Approved;antineoplastic agent;0.0045
+90;TP53;AXITINIB;Approved;antineoplastic agent;0.0105
+91;TP53;DECITABINE;Approved;antineoplastic agent;0.0093
+92;TP53;CRIZOTINIB;Approved;antineoplastic agent;0.0223
+93;TP53;CABOZANTINIB S-MALATE;Approved;antineoplastic agent;0.0105
+94;TP53;ABIRATERONE ACETATE;Approved;antineoplastic agent;0.0193
+95;TP53;VEMURAFENIB;Approved;antineoplastic agent;0.0097
+96;TP53;VORINOSTAT;Approved;antineoplastic agent;0.0084
+97;TP53;IDELALISIB;Approved;antineoplastic agent;0.0258
+98;TP53;BEVACIZUMAB-AWWB;Approved;antineoplastic agent;0.0087
+99;TP53;AZACITIDINE;Approved;antineoplastic agent;0.0058
+100;TP53;IRINOTECAN HYDROCHLORIDE;Approved;antineoplastic agent;0.0055
+101;TP53;PANITUMUMAB;Approved;antineoplastic agent;0.0116
+102;TP53;LENALIDOMIDE;Approved;antineoplastic agent;0.0089
+103;TP53;MITOXANTRONE;Approved;antineoplastic agent;0.0026
+104;TP53;ENZALUTAMIDE;Approved;antineoplastic agent;0.0178
+105;TP53;DOCETAXEL ANHYDROUS;Approved;antineoplastic agent;0.0042
+106;TP53;RITUXIMAB;Approved;antineoplastic agent;0.0129
+107;TP53;IBRUTINIB;Approved;antineoplastic agent;0.014
+108;TP53;NIVOLUMAB;Approved;antineoplastic agent;0.0077
+109;TP53;BORTEZOMIB;Approved;antineoplastic agent;0.0013
+110;TP53;SAPANISERTIB;Approved;antineoplastic agent;0.0158
+111;TP53;CAMPTOTHECIN;Approved;antineoplastic agent;0.0066
+112;TP53;TOPOTECAN HYDROCHLORIDE;Approved;antineoplastic agent;0.0093
+113;TP53;CETUXIMAB;Approved;antineoplastic agent;0.0032
+114;TP53;DABRAFENIB;Approved;antineoplastic agent;0.0129
+115;TP53;RESVERATROL;Approved;antineoplastic agent,antidiabetic,for treatment of herpes simplex virus 1;0.0024
+116;TP53;PACLITAXEL;Approved;for treatment of peripheral arterial disease (PAD),DMARD,antineoplastic agent;0.0064

@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="category" attr.type="string"/>
+<graph edgedefault="undirected"><node id="MAPT">
+  <data key="d0">gene</data>
+</node>
+<node id="STAT3">
+  <data key="d0">gene</data>
+</node>
+<node id="PTK2">
+  <data key="d0">gene</data>
+</node>
+<node id="RELA">
+  <data key="d0">gene</data>
+</node>
+<node id="APAF1">
+  <data key="d0">gene</data>
+</node>
+<node id="BAD">
+  <data key="d0">gene</data>
+</node>
+<node id="ACTL6A">
+  <data key="d0">gene</data>
+</node>
+<node id="CTNNB1">
+  <data key="d0">gene</data>
+</node>
+<node id="HSP90AA1">
+  <data key="d0">gene</data>
+</node>
+<node id="FANCD2">
+  <data key="d0">gene</data>
+</node>
+<node id="ABL1">
+  <data key="d0">gene</data>
+</node>
+<node id="ATR">
+  <data key="d0">gene</data>
+</node>
+<node id="CASP3">
+  <data key="d0">gene</data>
+</node>
+<node id="TP53">
+  <data key="d0">gene</data>
+</node>
+<node id="RIPK1">
+  <data key="d0">gene</data>
+</node>
+<node id="ROCK1">
+  <data key="d0">gene</data>
+</node>
+<node id="ATM">
+  <data key="d0">gene</data>
+</node>
+<node id="AKT1">
+  <data key="d0">gene</data>
+</node>
+<node id="RAD51">
+  <data key="d0">gene</data>
+</node>
+<node id="HERC2">
+  <data key="d0">gene</data>
+</node>
+<node id="BIRC2">
+  <data key="d0">gene</data>
+</node>
+<node id="RESVERATROL">
+  <data key="d0">drug</data>
+</node>
+<node id="DAUNORUBICIN LIPOSOMAL">
+  <data key="d0">drug</data>
+</node>
+<node id="FENRETINIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="GEFITINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="IDARUBICIN">
+  <data key="d0">drug</data>
+</node>
+<node id="DOXORUBICIN HYDROCHLORIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="TRIMETREXATE">
+  <data key="d0">drug</data>
+</node>
+<node id="STAT3 INHIBITOR OPB-51602">
+  <data key="d0">drug</data>
+</node>
+<node id="MASITINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="MLN-8054">
+  <data key="d0">drug</data>
+</node>
+<node id="LINIFANIB">
+  <data key="d0">drug</data>
+</node>
+<node id="ENMD-2076">
+  <data key="d0">drug</data>
+</node>
+<node id="ALISERTIB">
+  <data key="d0">drug</data>
+</node>
+<node id="PAZOPANIB">
+  <data key="d0">drug</data>
+</node>
+<node id="SNS-314">
+  <data key="d0">drug</data>
+</node>
+<node id="ADAVOSERTIB">
+  <data key="d0">drug</data>
+</node>
+<node id="DEFACTINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="ANTI-CD19 CAR T CELLS AT101">
+  <data key="d0">drug</data>
+</node>
+<node id="PANOBINOSTAT">
+  <data key="d0">drug</data>
+</node>
+<node id="CETUXIMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="LETROZOLE">
+  <data key="d0">drug</data>
+</node>
+<node id="IMATINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="CEQ508">
+  <data key="d0">drug</data>
+</node>
+<node id="CABOZANTINIB S-MALATE">
+  <data key="d0">drug</data>
+</node>
+<node id="TRICIRIBINE">
+  <data key="d0">drug</data>
+</node>
+<node id="SORAFENIB">
+  <data key="d0">drug</data>
+</node>
+<node id="ARRY-371797">
+  <data key="d0">drug</data>
+</node>
+<node id="TEMSIROLIMUS">
+  <data key="d0">drug</data>
+</node>
+<node id="LENALIDOMIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="THALIDOMIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="TRAMETINIB DIMETHYL SULFOXIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="ONALESPIB">
+  <data key="d0">drug</data>
+</node>
+<node id="RETASPIMYCIN HYDROCHLORIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="HSP90 INHIBITOR XL888">
+  <data key="d0">drug</data>
+</node>
+<node id="TANESPIMYCIN">
+  <data key="d0">drug</data>
+</node>
+<node id="HSP90 INHIBITOR DEBIO 0932">
+  <data key="d0">drug</data>
+</node>
+<node id="SNX-5422">
+  <data key="d0">drug</data>
+</node>
+<node id="ALVESPIMYCIN">
+  <data key="d0">drug</data>
+</node>
+<node id="RETASPIMYCIN">
+  <data key="d0">drug</data>
+</node>
+<node id="HSP90 INHIBITOR LAM-003A">
+  <data key="d0">drug</data>
+</node>
+<node id="GANETESPIB">
+  <data key="d0">drug</data>
+</node>
+<node id="PONATINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="NILOTINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="DASATINIB ANHYDROUS">
+  <data key="d0">drug</data>
+</node>
+<node id="REGORAFENIB">
+  <data key="d0">drug</data>
+</node>
+<node id="BOSUTINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="CENISERTIB">
+  <data key="d0">drug</data>
+</node>
+<node id="HYDROXYUREA">
+  <data key="d0">drug</data>
+</node>
+<node id="VINCRISTINE">
+  <data key="d0">drug</data>
+</node>
+<node id="BLINATUMOMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="XL228">
+  <data key="d0">drug</data>
+</node>
+<node id="AZACITIDINE">
+  <data key="d0">drug</data>
+</node>
+<node id="AXITINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="VANDETANIB">
+  <data key="d0">drug</data>
+</node>
+<node id="INOTUZUMAB OZOGAMICIN">
+  <data key="d0">drug</data>
+</node>
+<node id="CRIZOTINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="FORETINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="CEDIRANIB">
+  <data key="d0">drug</data>
+</node>
+<node id="DOVITINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="ERLOTINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="TOZASERTIB">
+  <data key="d0">drug</data>
+</node>
+<node id="OMACETAXINE MEPESUCCINATE">
+  <data key="d0">drug</data>
+</node>
+<node id="AT9283">
+  <data key="d0">drug</data>
+</node>
+<node id="ENZALUTAMIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="NIRAPARIB">
+  <data key="d0">drug</data>
+</node>
+<node id="PACLITAXEL">
+  <data key="d0">drug</data>
+</node>
+<node id="IDRONOXIL">
+  <data key="d0">drug</data>
+</node>
+<node id="CYTARABINE">
+  <data key="d0">drug</data>
+</node>
+<node id="IPILIMUMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="FULVESTRANT">
+  <data key="d0">drug</data>
+</node>
+<node id="RIMCAZOLE">
+  <data key="d0">drug</data>
+</node>
+<node id="OBINUTUZUMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="GEMCITABINE">
+  <data key="d0">drug</data>
+</node>
+<node id="MERCAPTOPURINE">
+  <data key="d0">drug</data>
+</node>
+<node id="SUNITINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="ETOPOSIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="ALEMTUZUMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="TAMOXIFEN">
+  <data key="d0">drug</data>
+</node>
+<node id="DECITABINE">
+  <data key="d0">drug</data>
+</node>
+<node id="EPIRUBICIN">
+  <data key="d0">drug</data>
+</node>
+<node id="ABIRATERONE ACETATE">
+  <data key="d0">drug</data>
+</node>
+<node id="VEMURAFENIB">
+  <data key="d0">drug</data>
+</node>
+<node id="VORINOSTAT">
+  <data key="d0">drug</data>
+</node>
+<node id="IDELALISIB">
+  <data key="d0">drug</data>
+</node>
+<node id="BEVACIZUMAB-AWWB">
+  <data key="d0">drug</data>
+</node>
+<node id="IRINOTECAN HYDROCHLORIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="PANITUMUMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="IFOSFAMIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="INTERFERON ALFA-2B">
+  <data key="d0">drug</data>
+</node>
+<node id="SELICICLIB">
+  <data key="d0">drug</data>
+</node>
+<node id="MITOXANTRONE">
+  <data key="d0">drug</data>
+</node>
+<node id="DOCETAXEL ANHYDROUS">
+  <data key="d0">drug</data>
+</node>
+<node id="RITUXIMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="IBRUTINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="NIVOLUMAB">
+  <data key="d0">drug</data>
+</node>
+<node id="RUXOLITINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="BORTEZOMIB">
+  <data key="d0">drug</data>
+</node>
+<node id="SAPANISERTIB">
+  <data key="d0">drug</data>
+</node>
+<node id="CAMPTOTHECIN">
+  <data key="d0">drug</data>
+</node>
+<node id="TOPOTECAN HYDROCHLORIDE">
+  <data key="d0">drug</data>
+</node>
+<node id="DABRAFENIB">
+  <data key="d0">drug</data>
+</node>
+<node id="BINIMETINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="FLUDARABINE">
+  <data key="d0">drug</data>
+</node>
+<node id="MK-2206">
+  <data key="d0">drug</data>
+</node>
+<node id="XL418">
+  <data key="d0">drug</data>
+</node>
+<node id="BMS-754807">
+  <data key="d0">drug</data>
+</node>
+<node id="IPATASERTIB">
+  <data key="d0">drug</data>
+</node>
+<node id="NINTEDANIB ESYLATE">
+  <data key="d0">drug</data>
+</node>
+<node id="ARCHEXIN">
+  <data key="d0">drug</data>
+</node>
+<node id="ENZASTAURIN">
+  <data key="d0">drug</data>
+</node>
+<node id="PERIFOSINE">
+  <data key="d0">drug</data>
+</node>
+<node id="AMUVATINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="NERATINIB">
+  <data key="d0">drug</data>
+</node>
+<node id="IAP INHIBITOR HGS1029">
+  <data key="d0">drug</data>
+</node>
+<edge source="MAPT" target="RESVERATROL"/>
+<edge source="MAPT" target="DAUNORUBICIN LIPOSOMAL"/>
+<edge source="MAPT" target="FENRETINIDE"/>
+<edge source="MAPT" target="GEFITINIB"/>
+<edge source="MAPT" target="IDARUBICIN"/>
+<edge source="MAPT" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="MAPT" target="TRIMETREXATE"/>
+<edge source="STAT3" target="STAT3 INHIBITOR OPB-51602"/>
+<edge source="PTK2" target="MASITINIB"/>
+<edge source="PTK2" target="MLN-8054"/>
+<edge source="PTK2" target="LINIFANIB"/>
+<edge source="PTK2" target="ENMD-2076"/>
+<edge source="PTK2" target="ALISERTIB"/>
+<edge source="PTK2" target="PAZOPANIB"/>
+<edge source="PTK2" target="SNS-314"/>
+<edge source="PTK2" target="ADAVOSERTIB"/>
+<edge source="PTK2" target="DEFACTINIB"/>
+<edge source="RELA" target="RESVERATROL"/>
+<edge source="RELA" target="GEFITINIB"/>
+<edge source="APAF1" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="BAD" target="ANTI-CD19 CAR T CELLS AT101"/>
+<edge source="ACTL6A" target="PANOBINOSTAT"/>
+<edge source="CTNNB1" target="CETUXIMAB"/>
+<edge source="CTNNB1" target="LETROZOLE"/>
+<edge source="CTNNB1" target="IMATINIB"/>
+<edge source="CTNNB1" target="CEQ508"/>
+<edge source="CTNNB1" target="CABOZANTINIB S-MALATE"/>
+<edge source="CTNNB1" target="TRICIRIBINE"/>
+<edge source="CTNNB1" target="SORAFENIB"/>
+<edge source="CTNNB1" target="ARRY-371797"/>
+<edge source="CTNNB1" target="TEMSIROLIMUS"/>
+<edge source="CTNNB1" target="LENALIDOMIDE"/>
+<edge source="CTNNB1" target="THALIDOMIDE"/>
+<edge source="CTNNB1" target="TRAMETINIB DIMETHYL SULFOXIDE"/>
+<edge source="HSP90AA1" target="ONALESPIB"/>
+<edge source="HSP90AA1" target="RETASPIMYCIN HYDROCHLORIDE"/>
+<edge source="HSP90AA1" target="HSP90 INHIBITOR XL888"/>
+<edge source="HSP90AA1" target="TANESPIMYCIN"/>
+<edge source="HSP90AA1" target="HSP90 INHIBITOR DEBIO 0932"/>
+<edge source="HSP90AA1" target="SNX-5422"/>
+<edge source="HSP90AA1" target="ALVESPIMYCIN"/>
+<edge source="HSP90AA1" target="RETASPIMYCIN"/>
+<edge source="HSP90AA1" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="HSP90AA1" target="HSP90 INHIBITOR LAM-003A"/>
+<edge source="HSP90AA1" target="GANETESPIB"/>
+<edge source="FANCD2" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="ABL1" target="PONATINIB"/>
+<edge source="ABL1" target="IMATINIB"/>
+<edge source="ABL1" target="NILOTINIB"/>
+<edge source="ABL1" target="DASATINIB ANHYDROUS"/>
+<edge source="ABL1" target="REGORAFENIB"/>
+<edge source="ABL1" target="TRAMETINIB DIMETHYL SULFOXIDE"/>
+<edge source="ABL1" target="BOSUTINIB"/>
+<edge source="ABL1" target="CENISERTIB"/>
+<edge source="ABL1" target="HYDROXYUREA"/>
+<edge source="ABL1" target="VINCRISTINE"/>
+<edge source="ABL1" target="BLINATUMOMAB"/>
+<edge source="ABL1" target="PAZOPANIB"/>
+<edge source="ABL1" target="ENMD-2076"/>
+<edge source="ABL1" target="XL228"/>
+<edge source="ABL1" target="AZACITIDINE"/>
+<edge source="ABL1" target="AXITINIB"/>
+<edge source="ABL1" target="VANDETANIB"/>
+<edge source="ABL1" target="INOTUZUMAB OZOGAMICIN"/>
+<edge source="ABL1" target="SORAFENIB"/>
+<edge source="ABL1" target="ADAVOSERTIB"/>
+<edge source="ABL1" target="CRIZOTINIB"/>
+<edge source="ABL1" target="FORETINIB"/>
+<edge source="ABL1" target="CEDIRANIB"/>
+<edge source="ABL1" target="DOVITINIB"/>
+<edge source="ABL1" target="ERLOTINIB"/>
+<edge source="ABL1" target="TOZASERTIB"/>
+<edge source="ABL1" target="CABOZANTINIB S-MALATE"/>
+<edge source="ABL1" target="ALISERTIB"/>
+<edge source="ABL1" target="OMACETAXINE MEPESUCCINATE"/>
+<edge source="ABL1" target="AT9283"/>
+<edge source="ABL1" target="MLN-8054"/>
+<edge source="ABL1" target="MASITINIB"/>
+<edge source="ATR" target="ENZALUTAMIDE"/>
+<edge source="ATR" target="NIRAPARIB"/>
+<edge source="CASP3" target="PACLITAXEL"/>
+<edge source="CASP3" target="IDRONOXIL"/>
+<edge source="CASP3" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="TP53" target="CYTARABINE"/>
+<edge source="TP53" target="IPILIMUMAB"/>
+<edge source="TP53" target="FULVESTRANT"/>
+<edge source="TP53" target="ERLOTINIB"/>
+<edge source="TP53" target="TRAMETINIB DIMETHYL SULFOXIDE"/>
+<edge source="TP53" target="RIMCAZOLE"/>
+<edge source="TP53" target="OBINUTUZUMAB"/>
+<edge source="TP53" target="PAZOPANIB"/>
+<edge source="TP53" target="GEMCITABINE"/>
+<edge source="TP53" target="MERCAPTOPURINE"/>
+<edge source="TP53" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="TP53" target="SUNITINIB"/>
+<edge source="TP53" target="ETOPOSIDE"/>
+<edge source="TP53" target="ALEMTUZUMAB"/>
+<edge source="TP53" target="SORAFENIB"/>
+<edge source="TP53" target="FENRETINIDE"/>
+<edge source="TP53" target="TAMOXIFEN"/>
+<edge source="TP53" target="AXITINIB"/>
+<edge source="TP53" target="DECITABINE"/>
+<edge source="TP53" target="TANESPIMYCIN"/>
+<edge source="TP53" target="EPIRUBICIN"/>
+<edge source="TP53" target="CRIZOTINIB"/>
+<edge source="TP53" target="CABOZANTINIB S-MALATE"/>
+<edge source="TP53" target="ABIRATERONE ACETATE"/>
+<edge source="TP53" target="VEMURAFENIB"/>
+<edge source="TP53" target="VORINOSTAT"/>
+<edge source="TP53" target="IDELALISIB"/>
+<edge source="TP53" target="BEVACIZUMAB-AWWB"/>
+<edge source="TP53" target="AZACITIDINE"/>
+<edge source="TP53" target="IRINOTECAN HYDROCHLORIDE"/>
+<edge source="TP53" target="PANITUMUMAB"/>
+<edge source="TP53" target="RESVERATROL"/>
+<edge source="TP53" target="LENALIDOMIDE"/>
+<edge source="TP53" target="IFOSFAMIDE"/>
+<edge source="TP53" target="INTERFERON ALFA-2B"/>
+<edge source="TP53" target="SELICICLIB"/>
+<edge source="TP53" target="MITOXANTRONE"/>
+<edge source="TP53" target="ENZALUTAMIDE"/>
+<edge source="TP53" target="DOCETAXEL ANHYDROUS"/>
+<edge source="TP53" target="ADAVOSERTIB"/>
+<edge source="TP53" target="RITUXIMAB"/>
+<edge source="TP53" target="IBRUTINIB"/>
+<edge source="TP53" target="NIVOLUMAB"/>
+<edge source="TP53" target="RUXOLITINIB"/>
+<edge source="TP53" target="BORTEZOMIB"/>
+<edge source="TP53" target="SAPANISERTIB"/>
+<edge source="TP53" target="CAMPTOTHECIN"/>
+<edge source="TP53" target="TOPOTECAN HYDROCHLORIDE"/>
+<edge source="TP53" target="CETUXIMAB"/>
+<edge source="TP53" target="DABRAFENIB"/>
+<edge source="TP53" target="PACLITAXEL"/>
+<edge source="TP53" target="ALVESPIMYCIN"/>
+<edge source="TP53" target="GANETESPIB"/>
+<edge source="RIPK1" target="RESVERATROL"/>
+<edge source="ROCK1" target="CENISERTIB"/>
+<edge source="ROCK1" target="LINIFANIB"/>
+<edge source="ATM" target="BINIMETINIB"/>
+<edge source="ATM" target="IBRUTINIB"/>
+<edge source="ATM" target="IPILIMUMAB"/>
+<edge source="ATM" target="TRAMETINIB DIMETHYL SULFOXIDE"/>
+<edge source="ATM" target="NIVOLUMAB"/>
+<edge source="ATM" target="ENZALUTAMIDE"/>
+<edge source="ATM" target="ETOPOSIDE"/>
+<edge source="ATM" target="DOXORUBICIN HYDROCHLORIDE"/>
+<edge source="ATM" target="FLUDARABINE"/>
+<edge source="ATM" target="NIRAPARIB"/>
+<edge source="ATM" target="IRINOTECAN HYDROCHLORIDE"/>
+<edge source="ATM" target="PACLITAXEL"/>
+<edge source="ATM" target="VANDETANIB"/>
+<edge source="AKT1" target="MK-2206"/>
+<edge source="AKT1" target="XL418"/>
+<edge source="AKT1" target="BMS-754807"/>
+<edge source="AKT1" target="IPATASERTIB"/>
+<edge source="AKT1" target="NINTEDANIB ESYLATE"/>
+<edge source="AKT1" target="CENISERTIB"/>
+<edge source="AKT1" target="TOPOTECAN HYDROCHLORIDE"/>
+<edge source="AKT1" target="TRICIRIBINE"/>
+<edge source="AKT1" target="ARCHEXIN"/>
+<edge source="AKT1" target="DABRAFENIB"/>
+<edge source="AKT1" target="ENZASTAURIN"/>
+<edge source="AKT1" target="RESVERATROL"/>
+<edge source="AKT1" target="PERIFOSINE"/>
+<edge source="AKT1" target="VEMURAFENIB"/>
+<edge source="RAD51" target="AMUVATINIB"/>
+<edge source="HERC2" target="NERATINIB"/>
+<edge source="BIRC2" target="IAP INHIBITOR HGS1029"/>
+</graph></graphml>
